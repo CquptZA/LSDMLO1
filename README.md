@@ -1,5 +1,5 @@
 # LSDMLO1
-Here are the supplementary materials for LSDMLO. 
+Here are the supplementary materials for LSDMLO. We will promptly supplement or present more experimental results in future journals for submission. 
 
 Requirements
 numpy                     1.21.5 
@@ -48,3 +48,11 @@ m_idx samping method index
 ...
 
 p:sampling rate
+
+
+
+
+
+
+Due to potential issues when anonymous github downloads code packages. We will make the Github link public in future submissions.
+
